@@ -73,7 +73,7 @@ for i in range(leng):
 print(rep)
 
 #QS 6
-keyy = {'sarim':1,'ammar' : 2}
+keyy = {'Rushan':1,'Rafiq' : 2}
 inp = input('key :')
 if inp in keyy.keys():
     print('Present')
